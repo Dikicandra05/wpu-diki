@@ -1,0 +1,17 @@
+2.2 Data Analytics VS Lainnya
+
+Hal berikutnya yang selalu ditanyakan orang adalah, 'Apa perbedaan antara Data Analytics vs Business Intelligence vs Data Engineer vs Data Scientists vs Machine Learning?’.
+
+Data Analyst adalah bagian dari data science, yang bertugas untuk mencari jawaban atas pertanyaan tentang apa yang telah terjadi, serta melihat nilai atau pembelajaran apa yang dapat kita ambil.
+Data Engineer akan mempersiapkan landasan bagi data analyst untuk melakukan pekerjaan; mereka mengumpulkan data dan membangun gudang data.
+Business Intelligence agak mirip dengan data analyst tetapi lebih berat pada keahlian bisnis atau pengetahuan domain.
+Data Scientist membuat algoritma untuk membuat model dan membantu menginformasikan strategi organisasi secara keseluruhan.
+Machine Learning Engineer mempunyai keahlian khusus di beberapa bidang, seperti pembelajaran mesin non-neural, pemrosesan natural language, dan computer vision.
+Ini membawa kita kepada beberapa istilah penting mengenai data: analitik deskriptif, diagnostik, prediktif, dan preskriptif.
+
+Gambar di bawah menjelaskan bagaimana kami mendefinisikan berbagai jenis analitik. Ada empat jenis analitik, seperti yang kamu lihat di bawah.
+
+Analitik Deskriptif –– menggunakan data dari sumber yang ada untuk menganalisis pola, tren, atau signifikansi yang dapat mempengaruhi kinerja untuk mendefinisikan masalah
+Analitik Diagnostik –– lebih dalam dari analitik deskriptif, dengan menggunakan insights untuk meningkatkan kinerja bisnis dan mengetahui mengapa hal itu terjadi
+Analitik Prediktif –– penggunaan teknik statistik dan pemodelan untuk menentukan apa yang mungkin terjadi di masa depan
+Analitik Preskriptif –– menggunakan statistik dan model untuk memprediksi kinerja masa depan dan membuat keputusan terbaik
